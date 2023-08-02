@@ -1,3 +1,6 @@
+
+![ResturentMenu](https://github.com/shivamkumarjha711/ResturentMenu/assets/125046297/6a45c38f-4b87-4585-bd0d-941d3d28c76c)
+
 Welcome to the GitHub repository for the "RestaurantMenu" project! This project is designed to showcase a user-friendly web application that displays a variety of food items available at a restaurant. Users can easily filter the menu by food item name and food type (breakfast, dinner, lunch, etc.) to find their favorite dishes.
 
 ### Tech Stack: 
